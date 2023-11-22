@@ -1,0 +1,62 @@
+﻿  App.cpp
+C:\workspace\2DFPS_2\2DFPS_2\App.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\2DFPS_2\2DFPS_2\App.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\2DFPS_2\2DFPS_2\App.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  game.cpp
+C:\workspace\2DFPS_2\2DFPS_2\game\game.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  intro.cpp
+C:\workspace\2DFPS_2\2DFPS_2\game\intro.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  Loading.cpp
+C:\workspace\2DFPS_2\2DFPS_2\game\Loading.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  Lobby.cpp
+C:\workspace\2DFPS_2\2DFPS_2\game\Lobby.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  Map.cpp
+C:\workspace\2DFPS_2\2DFPS_2\game\Map.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  menu.cpp
+C:\workspace\2DFPS_2\2DFPS_2\game\menu.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  Proc.cpp
+C:\workspace\2DFPS_2\2DFPS_2\game\Proc.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\2DFPS_2\2DFPS_2\game\Proc.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  iWindow.cpp
+C:\workspace\2DFPS_2\2DFPS_2\iWindow.cpp(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'iStd.h': No such file or directory
+  iArray.cpp
+C:\workspace\2DFPS_2\2DFPS_2\std\iStd.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\2DFPS_2\2DFPS_2\std\iOpenAL.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iColor.cpp
+  iGraphics.cpp
+C:\workspace\2DFPS_2\2DFPS_2\std\iGraphics.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\2DFPS_2\2DFPS_2\std\iStd.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\2DFPS_2\2DFPS_2\std\iOpenAL.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iImage.cpp
+C:\workspace\2DFPS_2\2DFPS_2\std\iStd.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\2DFPS_2\2DFPS_2\std\iOpenAL.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iOpenAL.cpp
+C:\workspace\2DFPS_2\2DFPS_2\std\iOpenAL.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iParticleSystem.cpp
+C:\workspace\2DFPS_2\2DFPS_2\std\iStd.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\2DFPS_2\2DFPS_2\std\iOpenAL.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iPoint.cpp
+C:\workspace\2DFPS_2\2DFPS_2\std\iPoint.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\2DFPS_2\2DFPS_2\std\iStd.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\2DFPS_2\2DFPS_2\std\iOpenAL.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iPopup.cpp
+C:\workspace\2DFPS_2\2DFPS_2\std\iStd.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\2DFPS_2\2DFPS_2\std\iOpenAL.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iRect.cpp
+  iSize.cpp
+  iSort.cpp
+  컴파일하고 있습니다...
+  iStd.cpp
+C:\workspace\2DFPS_2\2DFPS_2\std\iStd.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\2DFPS_2\2DFPS_2\std\iStd.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\2DFPS_2\2DFPS_2\std\iOpenAL.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iString.cpp
+C:\workspace\2DFPS_2\2DFPS_2\std\iString.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\2DFPS_2\2DFPS_2\std\iStd.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\2DFPS_2\2DFPS_2\std\iOpenAL.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iStrTex.cpp
+C:\workspace\2DFPS_2\2DFPS_2\std\iStd.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\2DFPS_2\2DFPS_2\std\iOpenAL.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
+  iUtil.cpp
+C:\workspace\2DFPS_2\2DFPS_2\std\iStd.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\2DFPS_2\2DFPS_2\std\iOpenAL.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'al.h': No such file or directory
